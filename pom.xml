@@ -10,6 +10,8 @@
 
   <groupId>sample.demo</groupId>
   <artifactId>sample-mybatis-api</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
   <name>sample-mybatis-api</name>
   <url>http://maven.apache.org</url>
 
